@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **a top-notch startup team**
 
+- 🤝 Find Me on Social Media [https://web.okjike.com/following](https://web.okjike.com/following)
+
 - 👨‍💻 All of my projects are available at [https://jike.city/crx](https://jike.city/crx)
 
 - 📝 I regularly write articles on [https://blog.csdn.net/qq_53167315?type=blog](https://blog.csdn.net/qq_53167315?type=blog)
@@ -19,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://web.okjike.com/following" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://web.okjike.com/following" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
