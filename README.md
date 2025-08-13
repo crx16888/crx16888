@@ -1,17 +1,23 @@
-<h1 align=“center”>嗨👋，我是容贤</h1>
-<h3 align=“center”>南京大学机器人与自动化学院在读，南京市首场黑客松&南大创业者社区发起人，一个懂技术的超级产品经理</h3>
+### 嗨👋，我是容贤
 
-- 🔭 我的研究兴趣 **聚焦人类更轻便、简单的生活**
+南京大学机器人与自动化学院在读，南京市首场黑客松&南大创业者社区发起人，一个懂技术的超级产品经理
 
-- 👨 💻 我的个人主页 [https://jike.city/crx]
+- Education Experience:
+  
+  Undergraduate: DLUT School of Automation@20FALL
+  
+  Master: NJU School of Robotics and Automation@24FALL
 
-- 💬 我的常用技术栈 **DRL、LLM和JS**
+- Research Focus:
 
-- 📫 我的常用邮箱 [crx16888@gmail.com/]
+  I'm interested in **reinforcement learning**, **agents**, and utilizing **RL** to reinforce **LLM agents'** ability in decision making. I also frequently use **front-end and back-end frameworks** to build projects I’m passionate about.(https://github.com/crx16888/RL_SuperMario)
 
-- 🌱 我的个人博客 [https://crx16888.github.io/]
 
-<h3 align="left">Connect with me: chenrongxian12345</h3>
+- Now
+
+  I'm the CTO of a startup company in Shenzhen @ [深圳科创学院](https://www.innoxsz.com/), and this is my personal blog @ [我的个人博客](https://crx16888.github.io/) and my profile @ [我的个人主页](https://jike.city/crx). Contact me at [crx16888@gmail.com](crx16888@gmail.com).
+
+Looking forward to making friends and cooperating with you!
 
 <p align="left">
 </p>
