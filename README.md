@@ -1,4 +1,4 @@
-### 嗨👋，我是容贤
+### 嗨👋，I‘m容贤
 
 南京大学机器人与自动化学院在读，南京市首场黑客松&南大创业者社区发起人，一个懂技术的超级产品经理
 
@@ -10,7 +10,7 @@
 
 - Research Focus:
 
-  I'm interested in **reinforcement learning**, **agents**, and utilizing **RL** to reinforce **LLM agents'** ability in decision making. I also frequently use **front-end and back-end frameworks** to build projects I’m passionate about.(https://github.com/crx16888/RL_SuperMario)
+  I'm interested in **reinforcement learning**, **agents**, and utilizing **RL** to reinforce **LLM agents'** ability in decision making. I also frequently use **front-end and back-end frameworks** to build projects I’m passionate about.@ [DRL in 超级马里奥](https://github.com/crx16888/RL_SuperMario)
 
 
 - Now
