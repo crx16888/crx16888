@@ -15,7 +15,9 @@
 
 - Now
 
-  I'm the CTO of a startup company in Shenzhen @ [深圳科创学院](https://www.innoxsz.com/), and this is my personal blog @ [我的个人博客](https://crx16888.github.io/) and my profile @ [我的个人主页](https://jike.city/crx). Contact me at [crx16888@gmail.com](crx16888@gmail.com).
+  I'm the CTO of a startup company in Shenzhen @ [深圳科创学院](https://www.innoxsz.com/), and this is my personal blog @ [我的个人博客](https://crx16888.github.io/) and my profile @ [我的个人主页](https://jike.city/crx).
+
+  Contact me at [crx16888@gmail.com](crx16888@gmail.com).
 
 Looking forward to making friends and cooperating with you!
 
