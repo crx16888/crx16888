@@ -1,6 +1,6 @@
 ### 嗨👋，I‘m容贤
 
-南京大学机器人与自动化学院在读，南京市首场黑客松&南大创业者社区发起人，一个懂技术的超级产品经理
+南京大学机器人与自动化学院在读，Founder@Flux南客松，一个懂技术的超级产品经理  my profile @ [我的个人主页](https://crx16888.github.io/) 
 
 - Education Experience:
   
@@ -15,11 +15,15 @@
 
 - Now
 
-  I'm the CTO of a startup company in Shenzhen @ [深圳科创学院](https://www.innoxsz.com/), and this is my personal blog @ [我的个人博客](https://crx16888.github.io/) and my profile @ [我的个人主页](https://jike.city/crx).
+  I'm currently based in the Shanghai-Nanjing area, starting a new venture, and was previously the CTO of a startup company in Shenzhen @ [深圳科创学院](https://www.innoxsz.com/)
 
   Contact me at [crx16888@gmail.com](crx16888@gmail.com).
 
 Looking forward to making friends and cooperating with you!
+
+我当前focus的几个个人开发的小项目有：
+1. 一个自动转发到各种微信群消息的机器人
+2. 
 
 <p align="left">
 </p>
