@@ -25,6 +25,7 @@ Looking forward to making friends and cooperating with you!
 1. 一个自动转发到各种微信群消息的机器人
 2. 更完整链路的发票提交机器产品
 3. 个人agent产品的录视频，参考张咋了、一些小的AI博主等
+4. 喜欢的演唱会自动爬取推送的agent机器
 
 <p align="left">
 </p>
