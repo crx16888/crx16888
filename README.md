@@ -23,7 +23,8 @@ Looking forward to making friends and cooperating with you!
 
 我当前focus的几个个人开发的小项目有：
 1. 一个自动转发到各种微信群消息的机器人
-2. 
+2. 更完整链路的发票提交机器产品
+3. 个人agent产品的录视频，参考张咋了、一些小的AI博主等
 
 <p align="left">
 </p>
